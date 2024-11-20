@@ -1,0 +1,9 @@
+README.md
+setup.py
+aayushker/__init__.py
+aayushker/main.py
+aayushker.egg-info/PKG-INFO
+aayushker.egg-info/SOURCES.txt
+aayushker.egg-info/dependency_links.txt
+aayushker.egg-info/entry_points.txt
+aayushker.egg-info/top_level.txt
